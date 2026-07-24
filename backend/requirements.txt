@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+langgraph
+google-genai
+psycopg[binary]
+python-dotenv
